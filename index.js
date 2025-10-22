@@ -6,8 +6,8 @@ const router = jsonServer.router('db.json')
 
 const middleware = jsonServer.defaults()
 
-OnlineCousre.use(middleware)
-OnlineCousre.use(router)
+Attendancetracker.use(middleware)
+Attendancetracker.use(router)
 
 const PORT = process.env.PORT || 3000
 
