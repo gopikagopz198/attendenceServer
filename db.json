@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": "bcd0",
+      "roll": "1",
+      "name": "gopika  c",
+      "attendance": "Present"
+    },
+    {
+      "id": "2aad",
+      "roll": "2",
+      "name": "sarthak",
+      "attendance": "Present"
+    },
+    {
+      "id": "0104",
+      "roll": "3",
+      "name": "geethika c",
+      "attendance": "Present"
+    },
+    {
+      "id": "8759",
+      "roll": "4",
+      "name": "lachu",
+      "attendance": "Present"
+    },
+    {
+      "id": "1f4f",
+      "roll": "5",
+      "name": "Anu"
+    },
+    {
+      "id": "1050",
+      "roll": "5",
+      "name": "Anu"
+    }
+  ]
+}
